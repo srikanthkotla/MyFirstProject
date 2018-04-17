@@ -1,1 +1,2 @@
 This is the first file we are creating on the Git
+Adding more info after the first file creation
