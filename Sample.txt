@@ -1,2 +1,7 @@
 This is the first file we are creating on the Git
 Adding more info after the first file creation
+
+
+New line added
+Major version built
+Thank you for your participation :)
